@@ -61,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yashiinde/leetcodesolution/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashiinde/leetcodesolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0572-subtree-of-another-tree) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashiinde/leetcodesolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Function
 |  |
 | ------- |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashiinde/leetcodesolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashiinde/leetcodesolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
