@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Yashiinde/leetcodesolution/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/Yashiinde/leetcodesolution/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/Yashiinde/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
+| [1710-maximum-units-on-a-truck](https://github.com/Yashiinde/leetcodesolution/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashiinde/leetcodesolution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Yashiinde/leetcodesolution/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashiinde/leetcodesolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/1382-balance-a-binary-search-tree) |
+| [1710-maximum-units-on-a-truck](https://github.com/Yashiinde/leetcodesolution/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashiinde/leetcodesolution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String Matching
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Yashiinde/leetcodesolution/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/Yashiinde/leetcodesolution/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/Yashiinde/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
+| [1710-maximum-units-on-a-truck](https://github.com/Yashiinde/leetcodesolution/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashiinde/leetcodesolution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
 |  |
