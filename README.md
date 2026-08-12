@@ -192,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Yashiinde/leetcodesolution/tree/master/0881-boats-to-save-people) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
