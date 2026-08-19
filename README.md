@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Yashiinde/leetcodesolution/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Yashiinde/leetcodesolution/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Yashiinde/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashiinde/leetcodesolution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1710-maximum-units-on-a-truck](https://github.com/Yashiinde/leetcodesolution/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashiinde/leetcodesolution/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Yashiinde/leetcodesolution/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Yashiinde/leetcodesolution/tree/master/0938-range-sum-of-bst) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashiinde/leetcodesolution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Yashiinde/leetcodesolution/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/Yashiinde/leetcodesolution/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/Yashiinde/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashiinde/leetcodesolution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1710-maximum-units-on-a-truck](https://github.com/Yashiinde/leetcodesolution/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashiinde/leetcodesolution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Yashiinde/leetcodesolution/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Yashiinde/leetcodesolution/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashiinde/leetcodesolution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Yashiinde/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashiinde/leetcodesolution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
