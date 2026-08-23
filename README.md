@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0572-subtree-of-another-tree) |
 | [0844-backspace-string-compare](https://github.com/Yashiinde/leetcodesolution/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yashiinde/leetcodesolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashiinde/leetcodesolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Yashiinde/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Function
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Yashiinde/leetcodesolution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Yashiinde/leetcodesolution/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Yashiinde/leetcodesolution/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yashiinde/leetcodesolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashiinde/leetcodesolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Yashiinde/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
