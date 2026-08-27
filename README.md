@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Yashiinde/leetcodesolution/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Yashiinde/leetcodesolution/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Yashiinde/leetcodesolution/tree/master/0455-assign-cookies) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Yashiinde/leetcodesolution/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/1382-balance-a-binary-search-tree) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Yashiinde/leetcodesolution/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -289,4 +292,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Yashiinde/leetcodesolution/tree/master/0901-online-stock-span) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
