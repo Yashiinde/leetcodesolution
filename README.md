@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yashiinde/leetcodesolution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Yashiinde/leetcodesolution/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yashiinde/leetcodesolution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Yashiinde/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashiinde/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
