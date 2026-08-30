@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Yashiinde/leetcodesolution/tree/master/0071-simplify-path) |
+| [0208-implement-trie-prefix-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Yashiinde/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0572-subtree-of-another-tree) |
 | [0844-backspace-string-compare](https://github.com/Yashiinde/leetcodesolution/tree/master/0844-backspace-string-compare) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Yashiinde/leetcodesolution/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/Yashiinde/leetcodesolution/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Yashiinde/leetcodesolution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Yashiinde/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashiinde/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashiinde/leetcodesolution/tree/master/0560-subarray-sum-equals-k) |
@@ -320,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Yashiinde/leetcodesolution/tree/master/0560-subarray-sum-equals-k) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
