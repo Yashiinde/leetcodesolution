@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Yashiinde/leetcodesolution/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Yashiinde/leetcodesolution/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Yashiinde/leetcodesolution/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Yashiinde/leetcodesolution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Yashiinde/leetcodesolution/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Yashiinde/leetcodesolution/tree/master/0844-backspace-string-compare) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Yashiinde/leetcodesolution/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Yashiinde/leetcodesolution/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/Yashiinde/leetcodesolution/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Yashiinde/leetcodesolution/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/Yashiinde/leetcodesolution/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/Yashiinde/leetcodesolution/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Yashiinde/leetcodesolution/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
