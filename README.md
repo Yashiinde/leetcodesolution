@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yashiinde/leetcodesolution/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/Yashiinde/leetcodesolution/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -300,10 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Yashiinde/leetcodesolution/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/Yashiinde/leetcodesolution/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Yashiinde/leetcodesolution/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Yashiinde/leetcodesolution/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Yashiinde/leetcodesolution/tree/master/0933-number-of-recent-calls) |
 ## Hash Table
 |  |
 | ------- |
