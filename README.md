@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Yashiinde/leetcodesolution/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Yashiinde/leetcodesolution/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Yashiinde/leetcodesolution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Yashiinde/leetcodesolution/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Yashiinde/leetcodesolution/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Yashiinde/leetcodesolution/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Yashiinde/leetcodesolution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Yashiinde/leetcodesolution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
