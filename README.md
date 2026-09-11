@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Yashiinde/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashiinde/leetcodesolution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Yashiinde/leetcodesolution/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yashiinde/leetcodesolution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/Yashiinde/leetcodesolution/tree/master/1710-maximum-units-on-a-truck) |
 | [1929-concatenation-of-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1929-concatenation-of-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashiinde/leetcodesolution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Yashiinde/leetcodesolution/tree/master/1672-richest-customer-wealth) |
 ## Queue
 |  |
 | ------- |
