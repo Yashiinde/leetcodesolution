@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Yashiinde/leetcodesolution/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Yashiinde/leetcodesolution/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Yashiinde/leetcodesolution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Yashiinde/leetcodesolution/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Yashiinde/leetcodesolution/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Yashiinde/leetcodesolution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Yashiinde/leetcodesolution/tree/master/0078-subsets) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Yashiinde/leetcodesolution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
