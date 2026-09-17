@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Yashiinde/leetcodesolution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Yashiinde/leetcodesolution/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashiinde/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Yashiinde/leetcodesolution/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashiinde/leetcodesolution/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashiinde/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Yashiinde/leetcodesolution/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Yashiinde/leetcodesolution/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Yashiinde/leetcodesolution/tree/master/0844-backspace-string-compare) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashiinde/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/Yashiinde/leetcodesolution/tree/master/0450-delete-node-in-a-bst) |
 | [0633-sum-of-square-numbers](https://github.com/Yashiinde/leetcodesolution/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0700-search-in-a-binary-search-tree) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Yashiinde/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashiinde/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Yashiinde/leetcodesolution/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/Yashiinde/leetcodesolution/tree/master/0881-boats-to-save-people) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Yashiinde/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashiinde/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashiinde/leetcodesolution/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Yashiinde/leetcodesolution/tree/master/0648-replace-words) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yashiinde/leetcodesolution/tree/master/2351-first-letter-to-appear-twice) |
