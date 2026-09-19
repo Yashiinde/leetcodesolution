@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Yashiinde/leetcodesolution/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/Yashiinde/leetcodesolution/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Yashiinde/leetcodesolution/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/Yashiinde/leetcodesolution/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Yashiinde/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashiinde/leetcodesolution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1480-running-sum-of-1d-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Yashiinde/leetcodesolution/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Yashiinde/leetcodesolution/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Yashiinde/leetcodesolution/tree/master/0881-boats-to-save-people) |
+| [1089-duplicate-zeros](https://github.com/Yashiinde/leetcodesolution/tree/master/1089-duplicate-zeros) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashiinde/leetcodesolution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
