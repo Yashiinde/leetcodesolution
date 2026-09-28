@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Yashiinde/leetcodesolution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Yashiinde/leetcodesolution/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Yashiinde/leetcodesolution/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Yashiinde/leetcodesolution/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Yashiinde/leetcodesolution/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Yashiinde/leetcodesolution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Yashiinde/leetcodesolution/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Yashiinde/leetcodesolution/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Yashiinde/leetcodesolution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Yashiinde/leetcodesolution/tree/master/0078-subsets) |
 ## Newton's Method
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashiinde/leetcodesolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Yashiinde/leetcodesolution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
