@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/Yashiinde/leetcodesolution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashiinde/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Yashiinde/leetcodesolution/tree/master/0441-arranging-coins) |
@@ -480,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Yashiinde/leetcodesolution/tree/master/1492-the-kth-factor-of-n) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Yashiinde/leetcodesolution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
