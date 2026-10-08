@@ -6,8 +6,7 @@ class Solution {
        for(char ch:s.toCharArray()){
         if(ch=='('){
         count++;
-       }
-       if(ch==')'){
+       }else if(ch==')'){
         count--;
        }
        str1.append(ch);
