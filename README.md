@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Yashiinde/leetcodesolution/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Yashiinde/leetcodesolution/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Yashiinde/leetcodesolution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Yashiinde/leetcodesolution/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Yashiinde/leetcodesolution/tree/master/0066-plus-one) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yashiinde/leetcodesolution/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Yashiinde/leetcodesolution/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0229-majority-element-ii) |
