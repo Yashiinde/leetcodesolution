@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Yashiinde/leetcodesolution/tree/master/1710-maximum-units-on-a-truck) |
 | [1929-concatenation-of-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Yashiinde/leetcodesolution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashiinde/leetcodesolution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Yashiinde/leetcodesolution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashiinde/leetcodesolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashiinde/leetcodesolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yashiinde/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Yashiinde/leetcodesolution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yashiinde/leetcodesolution/tree/master/2351-first-letter-to-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Yashiinde/leetcodesolution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
