@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Yashiinde/leetcodesolution/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashiinde/leetcodesolution/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Yashiinde/leetcodesolution/tree/master/0605-can-place-flowers) |
 | [0648-replace-words](https://github.com/Yashiinde/leetcodesolution/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/Yashiinde/leetcodesolution/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Yashiinde/leetcodesolution/tree/master/0724-find-pivot-index) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yashiinde/leetcodesolution/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Yashiinde/leetcodesolution/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Yashiinde/leetcodesolution/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/Yashiinde/leetcodesolution/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/Yashiinde/leetcodesolution/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashiinde/leetcodesolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
