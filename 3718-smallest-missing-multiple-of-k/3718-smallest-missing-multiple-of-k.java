@@ -5,10 +5,7 @@ class Solution {
             set.add(nums[i]);
         }
         int i=k;
-        while(true){
-            if(!set.contains(i)){
-                break;
-            }
+        while(set.contains(i)){
             i+=k;
         }
         return i;
