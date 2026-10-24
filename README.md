@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yashiinde/leetcodesolution/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Yashiinde/leetcodesolution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Yashiinde/leetcodesolution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0189-rotate-array) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yashiinde/leetcodesolution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yashiinde/leetcodesolution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yashiinde/leetcodesolution/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -532,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yashiinde/leetcodesolution/tree/master/2778-sum-of-squares-of-special-elements) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Yashiinde/leetcodesolution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
