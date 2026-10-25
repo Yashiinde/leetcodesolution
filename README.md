@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yashiinde/leetcodesolution/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/Yashiinde/leetcodesolution/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Yashiinde/leetcodesolution/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0208-implement-trie-prefix-tree) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yashiinde/leetcodesolution/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Yashiinde/leetcodesolution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Yashiinde/leetcodesolution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Yashiinde/leetcodesolution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0189-rotate-array) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yashiinde/leetcodesolution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Yashiinde/leetcodesolution/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Yashiinde/leetcodesolution/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0208-implement-trie-prefix-tree) |
