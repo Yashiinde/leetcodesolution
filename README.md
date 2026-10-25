@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yashiinde/leetcodesolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0101-symmetric-tree) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yashiinde/leetcodesolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0101-symmetric-tree) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yashiinde/leetcodesolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0101-symmetric-tree) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Yashiinde/leetcodesolution/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yashiinde/leetcodesolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Yashiinde/leetcodesolution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Yashiinde/leetcodesolution/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Yashiinde/leetcodesolution/tree/master/0682-baseball-game) |
