@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Yashiinde/leetcodesolution/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Yashiinde/leetcodesolution/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yashiinde/leetcodesolution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0543-diameter-of-binary-tree) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Yashiinde/leetcodesolution/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yashiinde/leetcodesolution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0572-subtree-of-another-tree) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Yashiinde/leetcodesolution/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Yashiinde/leetcodesolution/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yashiinde/leetcodesolution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0543-diameter-of-binary-tree) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Yashiinde/leetcodesolution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Yashiinde/leetcodesolution/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Yashiinde/leetcodesolution/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yashiinde/leetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Yashiinde/leetcodesolution/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Yashiinde/leetcodesolution/tree/master/0443-string-compression) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Yashiinde/leetcodesolution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Yashiinde/leetcodesolution/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Yashiinde/leetcodesolution/tree/master/0257-binary-tree-paths) |
 ## Newton's Method
 |  |
 | ------- |
