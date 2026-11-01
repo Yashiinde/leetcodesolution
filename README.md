@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Yashiinde/leetcodesolution/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Yashiinde/leetcodesolution/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Yashiinde/leetcodesolution/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Yashiinde/leetcodesolution/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Yashiinde/leetcodesolution/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Yashiinde/leetcodesolution/tree/master/1025-divisor-game) |
