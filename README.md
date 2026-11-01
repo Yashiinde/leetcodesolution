@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yashiinde/leetcodesolution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0092-reverse-linked-list-ii) |
+| [0707-design-linked-list](https://github.com/Yashiinde/leetcodesolution/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yashiinde/leetcodesolution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Yashiinde/leetcodesolution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Heap (Priority Queue)
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Yashiinde/leetcodesolution/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Yashiinde/leetcodesolution/tree/master/0225-implement-stack-using-queues) |
+| [0707-design-linked-list](https://github.com/Yashiinde/leetcodesolution/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Yashiinde/leetcodesolution/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Yashiinde/leetcodesolution/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
