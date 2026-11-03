@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Yashiinde/leetcodesolution/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/Yashiinde/leetcodesolution/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashiinde/leetcodesolution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Yashiinde/leetcodesolution/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Yashiinde/leetcodesolution/tree/master/0605-can-place-flowers) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Yashiinde/leetcodesolution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Yashiinde/leetcodesolution/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/Yashiinde/leetcodesolution/tree/master/0506-relative-ranks) |
 | [0881-boats-to-save-people](https://github.com/Yashiinde/leetcodesolution/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Yashiinde/leetcodesolution/tree/master/0973-k-closest-points-to-origin) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Yashiinde/leetcodesolution/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/Yashiinde/leetcodesolution/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Yashiinde/leetcodesolution/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Yashiinde/leetcodesolution/tree/master/1046-last-stone-weight) |
