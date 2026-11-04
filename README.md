@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Yashiinde/leetcodesolution/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Yashiinde/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Yashiinde/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashiinde/leetcodesolution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashiinde/leetcodesolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1394-find-lucky-integer-in-an-array) |
