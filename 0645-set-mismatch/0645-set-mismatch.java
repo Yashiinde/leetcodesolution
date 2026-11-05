@@ -12,6 +12,7 @@ class Solution {
         for(int i=1;i<=n;i++){
             if(!set.contains(i)){
                 arr[1]=i;
+                break;
             }
         }
         return arr;
