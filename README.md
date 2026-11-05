@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yashiinde/leetcodesolution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Yashiinde/leetcodesolution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Yashiinde/leetcodesolution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Yashiinde/leetcodesolution/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Yashiinde/leetcodesolution/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Yashiinde/leetcodesolution/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Yashiinde/leetcodesolution/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Stack
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Yashiinde/leetcodesolution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Yashiinde/leetcodesolution/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Yashiinde/leetcodesolution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Yashiinde/leetcodesolution/tree/master/0735-asteroid-collision) |
