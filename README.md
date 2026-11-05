@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Yashiinde/leetcodesolution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Yashiinde/leetcodesolution/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Yashiinde/leetcodesolution/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Yashiinde/leetcodesolution/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Yashiinde/leetcodesolution/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -609,4 +610,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yashiinde/leetcodesolution/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/Yashiinde/leetcodesolution/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
