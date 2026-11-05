@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Yashiinde/leetcodesolution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Yashiinde/leetcodesolution/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Yashiinde/leetcodesolution/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yashiinde/leetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Yashiinde/leetcodesolution/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Yashiinde/leetcodesolution/tree/master/0443-string-compression) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Yashiinde/leetcodesolution/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Yashiinde/leetcodesolution/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashiinde/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
