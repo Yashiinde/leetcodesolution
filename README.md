@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yashiinde/leetcodesolution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Yashiinde/leetcodesolution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Yashiinde/leetcodesolution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Yashiinde/leetcodesolution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Yashiinde/leetcodesolution/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Yashiinde/leetcodesolution/tree/master/0412-fizz-buzz) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Yashiinde/leetcodesolution/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Yashiinde/leetcodesolution/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Yashiinde/leetcodesolution/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yashiinde/leetcodesolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yashiinde/leetcodesolution/tree/master/2351-first-letter-to-appear-twice) |
@@ -610,5 +612,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yashiinde/leetcodesolution/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Yashiinde/leetcodesolution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Yashiinde/leetcodesolution/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
