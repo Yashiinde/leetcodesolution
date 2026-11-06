@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Yashiinde/leetcodesolution/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yashiinde/leetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Yashiinde/leetcodesolution/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/Yashiinde/leetcodesolution/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Yashiinde/leetcodesolution/tree/master/0443-string-compression) |
 | [0572-subtree-of-another-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0572-subtree-of-another-tree) |
 | [0648-replace-words](https://github.com/Yashiinde/leetcodesolution/tree/master/0648-replace-words) |
