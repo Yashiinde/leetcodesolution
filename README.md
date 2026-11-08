@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Yashiinde/leetcodesolution/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Yashiinde/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Yashiinde/leetcodesolution/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Yashiinde/leetcodesolution/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Yashiinde/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Yashiinde/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
+| [1267-count-servers-that-communicate](https://github.com/Yashiinde/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yashiinde/leetcodesolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Yashiinde/leetcodesolution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Yashiinde/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Yashiinde/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yashiinde/leetcodesolution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Yashiinde/leetcodesolution/tree/master/1672-richest-customer-wealth) |
 ## Queue
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0229-majority-element-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Yashiinde/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Yashiinde/leetcodesolution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yashiinde/leetcodesolution/tree/master/2351-first-letter-to-appear-twice) |
@@ -630,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Yashiinde/leetcodesolution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Yashiinde/leetcodesolution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yashiinde/leetcodesolution/tree/master/0342-power-of-four) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Yashiinde/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
