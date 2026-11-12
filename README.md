@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashiinde/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Yashiinde/leetcodesolution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yashiinde/leetcodesolution/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Yashiinde/leetcodesolution/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Yashiinde/leetcodesolution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yashiinde/leetcodesolution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Yashiinde/leetcodesolution/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yashiinde/leetcodesolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/Yashiinde/leetcodesolution/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Yashiinde/leetcodesolution/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashiinde/leetcodesolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yashiinde/leetcodesolution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yashiinde/leetcodesolution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
