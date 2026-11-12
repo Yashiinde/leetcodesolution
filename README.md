@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Yashiinde/leetcodesolution/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashiinde/leetcodesolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Yashiinde/leetcodesolution/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/Yashiinde/leetcodesolution/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Yashiinde/leetcodesolution/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Yashiinde/leetcodesolution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0229-majority-element-ii) |
@@ -639,11 +641,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Yashiinde/leetcodesolution/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/Yashiinde/leetcodesolution/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Yashiinde/leetcodesolution/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Yashiinde/leetcodesolution/tree/master/0912-sort-an-array) |
 ## Enumeration
 |  |
@@ -665,4 +669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Yashiinde/leetcodesolution/tree/master/0202-happy-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Yashiinde/leetcodesolution/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
