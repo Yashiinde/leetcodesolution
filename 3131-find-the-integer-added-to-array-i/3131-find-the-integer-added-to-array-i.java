@@ -6,7 +6,7 @@ class Solution {
         sum1+=nums2[i];
         sum2+=nums1[i];
        }
-       int sum=(sum1-sum2)/nums2.length;
-       return sum;
+       return (sum1-sum2)/nums2.length;
+       
     }
 }
