@@ -1,6 +1,6 @@
 class Solution {
     public int sumDivisibleByK(int[] nums, int k) {
-        int arr[]=new int[101];
+        int[] arr=new int[101];
         for(int num:nums){
             arr[num]++;
         }
