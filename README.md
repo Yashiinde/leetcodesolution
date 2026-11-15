@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Yashiinde/leetcodesolution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Yashiinde/leetcodesolution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Yashiinde/leetcodesolution/tree/master/1768-merge-strings-alternately) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Yashiinde/leetcodesolution/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yashiinde/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yashiinde/leetcodesolution/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Yashiinde/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Yashiinde/leetcodesolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/Yashiinde/leetcodesolution/tree/master/1492-the-kth-factor-of-n) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Yashiinde/leetcodesolution/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Yashiinde/leetcodesolution/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Yashiinde/leetcodesolution/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashiinde/leetcodesolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
