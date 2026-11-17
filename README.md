@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Yashiinde/leetcodesolution/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Yashiinde/leetcodesolution/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/Yashiinde/leetcodesolution/tree/master/1089-duplicate-zeros) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Yashiinde/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Yashiinde/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Yashiinde/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
 | [1267-count-servers-that-communicate](https://github.com/Yashiinde/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Yashiinde/leetcodesolution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yashiinde/leetcodesolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashiinde/leetcodesolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Yashiinde/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashiinde/leetcodesolution/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yashiinde/leetcodesolution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Yashiinde/leetcodesolution/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Yashiinde/leetcodesolution/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Yashiinde/leetcodesolution/tree/master/0648-replace-words) |
 | [0819-most-common-word](https://github.com/Yashiinde/leetcodesolution/tree/master/0819-most-common-word) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Yashiinde/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashiinde/leetcodesolution/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Yashiinde/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yashiinde/leetcodesolution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Yashiinde/leetcodesolution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Yashiinde/leetcodesolution/tree/master/0347-top-k-frequent-elements) |
 | [0819-most-common-word](https://github.com/Yashiinde/leetcodesolution/tree/master/0819-most-common-word) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Yashiinde/leetcodesolution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Yashiinde/leetcodesolution/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Yashiinde/leetcodesolution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1267-count-servers-that-communicate](https://github.com/Yashiinde/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
