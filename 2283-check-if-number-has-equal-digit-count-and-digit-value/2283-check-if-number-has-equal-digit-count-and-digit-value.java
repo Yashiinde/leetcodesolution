@@ -1,6 +1,6 @@
 class Solution {
     public boolean digitCount(String num) {
-        int arr[]=new int[11];
+        int arr[]=new int[10];
         for(char ch:num.toCharArray()){
             arr[ch-'0']++;
         }
