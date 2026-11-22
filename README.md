@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Yashiinde/leetcodesolution/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yashiinde/leetcodesolution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yashiinde/leetcodesolution/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Yashiinde/leetcodesolution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Yashiinde/leetcodesolution/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Yashiinde/leetcodesolution/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Yashiinde/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
