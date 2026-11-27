@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Yashiinde/leetcodesolution/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Yashiinde/leetcodesolution/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3360-stone-removal-game](https://github.com/Yashiinde/leetcodesolution/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashiinde/leetcodesolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yashiinde/leetcodesolution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Yashiinde/leetcodesolution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yashiinde/leetcodesolution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Yashiinde/leetcodesolution/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Yashiinde/leetcodesolution/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/Yashiinde/leetcodesolution/tree/master/3360-stone-removal-game) |
 ## Matrix
 |  |
 | ------- |
